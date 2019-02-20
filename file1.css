@@ -1,0 +1,67 @@
+body {
+    background: url("bg.gif");
+}
+
+#h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+    font-size: 100px;
+    color: greenyellow;
+}
+
+#p1{
+    text-align: center;
+    font-size: 50px;
+    color: azure;
+    font-family: fantasy;
+    margin-top: 20px;
+    display: block;
+    margin: auto;
+}
+
+#div2{
+    text-align: center;
+
+}
+
+#img1{
+    height: 350px;
+    margin-top: 60px;
+}
+
+#img2{
+    margin-top: 40px;
+    height: 80px;
+}
+
+#img3{
+    height: 60px;
+    margin-top: 40px;
+}
+
+#img4{
+    height: 80px;
+    margin-right: 300px;
+}
+
+#img5{
+    height: 80px;
+}
+
+#p2{
+    text-align: center;
+    color: azure;
+    font-size: 20px;
+}
+
+#div1{
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    width: 50%;
+
+}
